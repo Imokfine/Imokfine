@@ -1,10 +1,11 @@
 
-![poi](https://user-images.githubusercontent.com/98553439/229242066-ca00813f-d500-4384-9bee-c577e95dd88d.gif)
+<p align="center"> <img src="https://user-images.githubusercontent.com/98553439/229244259-d7908fcb-d55a-40bf-a947-0d1a08c5e529.gif" alt="cameras"/> </p>
+<p align="center"><b>Hi there 👋 You are being watched. Smile ;)</b></p>
 
-
-
-
-### Hi there 👋
+## 📒 My Notebook
+|  |  |  |  |
+| -------- | -------- | -------- | -------- |
+| C++ | C | Java | Python
 
 <!--
 **Imokfine/Imokfine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
