@@ -9,19 +9,28 @@ Coming soon
 
 
 ## 📒 My Notebook
+### Programming language  
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [C++](https://github.com/Imokfine/CppNotes) | C | Java | Python
+| [C++](https://github.com/Imokfine/CppNotes) | C | Java | Python |  
+
+### Parallel computing  
+|  |  |  |
+| -------- | -------- | -------- |
+| OpenMP | MPI | Cuda | 
 
 <br>
 <br>
 
 ##
-<p align="center"> <strong>Pi</strong>, the ratio of the circumference of a circle to its diameter — 3.1415926535— is just the beginning. It keeps going forever without ever repeating, which means that contained within this string of decimals is every other number; your birth date, the combination to your locker, your social security number, etc. It’s all in there somewhere.</p>
+
+<p align="center"> <strong>π</strong>, the ratio of the circumference of a circle to its diameter — 3.1415926535— is just the beginning. It keeps going forever without ever repeating, which means that contained within this string of decimals is every other number; your birth date, the combination to your locker, your social security number, etc. It’s all in there somewhere.</p>
 
 <p align="center">And if you convert these decimals into letters you would have every word that ever existed in every possible combination; the first syllable you spoke as a baby, the name of your latest crush, your entire life story from beginning to end, and everything we ever say or do. All of the world’s infinite possibilities rest within this one simple circle.</p>
 
 <p align="center"><strong>Now what will you do with that information; what it’s good for? Well, that would be up to you.</strong></p>
+
+
 
 <!--
 **Imokfine/Imokfine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center">🌑🌒🌓🌔🌕🌖🌗🌘🌑</p>
 -->
