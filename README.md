@@ -5,7 +5,7 @@
 ## 📒 My Notebook
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| C++ | C | Java | Python
+| [C++](../CppNotes) | C | Java | Python
 
 <!--
 **Imokfine/Imokfine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
