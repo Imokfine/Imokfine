@@ -2,6 +2,9 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/98553439/229244259-d7908fcb-d55a-40bf-a947-0d1a08c5e529.gif" alt="cameras"/> </p>
 <p align="center"><b>Hi there 👋 You are being watched. Smile ;)</b></p>
 
+## 📝 My Project
+Coming soon
+
 ## 📒 My Notebook
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
