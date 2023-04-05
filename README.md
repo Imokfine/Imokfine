@@ -17,7 +17,7 @@ Coming soon
 ### Parallel computing  
 |  |  |  |
 | -------- | -------- | -------- |
-| OpenMP | MPI | Cuda | 
+| OpenMP | [MPI](https://github.com/Imokfine/MPINotes) | Cuda | 
 
 <br>
 <br>
