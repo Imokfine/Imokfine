@@ -5,7 +5,7 @@
 <br>
 
 ## 📝 My Projects
-[Machine Learning & Data Mining](https://github.com/Imokfine/ML-DM_Projects/edit/main/README.md)
+* [Machine Learning & Data Mining](https://github.com/Imokfine/ML-DM_Projects)
 
 
 ## 📒 My Notebooks
