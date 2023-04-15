@@ -4,11 +4,11 @@
 
 <br>
 
-## 📝 My Project
-Coming soon
+## 📝 My Projects
+[Machine Learning & Data Mining](https://github.com/Imokfine/ML-DM_Projects/edit/main/README.md)
 
 
-## 📒 My Notebook
+## 📒 My Notebooks
 ### Programming language  
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
