@@ -5,6 +5,8 @@
 <br>
 
 ## 📝 My Projects
+* [Java Projects](https://github.com/Imokfine/Java_Projects)
+* [C++ Projects](https://github.com/Imokfine/Cpp_Projects)
 * [Machine Learning & Data Mining](https://github.com/Imokfine/ML-DM_Projects)
 
 
@@ -12,7 +14,7 @@
 ### Programming language  
 |  |  |  |  |
 | -------- | -------- | -------- | -------- |
-| [C++](https://github.com/Imokfine/CppNotes) | C | Java | Python |  
+| Java | [C++](https://github.com/Imokfine/CppNotes) | C | Python |  
 
 ### Parallel computing  
 |  |  |  |
